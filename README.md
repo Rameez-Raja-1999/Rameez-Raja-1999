@@ -23,7 +23,10 @@
 
 ### 📊 GitHub Stats
 
-[Rameez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rameez-Raja-1999\&show_icons=true\&theme=tokyonight)
+### 📊 GitHub Stats
+
+![Rameez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rameez-Raja-1999\&show_icons=true\&theme=tokyonight)
+
 
 ---
 
