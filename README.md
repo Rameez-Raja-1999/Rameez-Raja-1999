@@ -31,30 +31,6 @@
 
 ---
 
-### 📈 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rameez-Raja-1999\&layout=compact\&theme=tokyonight)
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/Rameez-Raja-1999">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="www.linkedin.com/in/rameez-raja-088380230">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
-
----
-
-⭐ From [Rameez Raja](https://github.com/Rameez-Raja-1999)
-
 
 
 
