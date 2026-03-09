@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rameez Raja</h1>
 <h3 align="center">Frontend Developer | JavaScript Enthusiast</h3>
-
 ---
 ### 👨‍💻 About Me
-
 * 🌱 I’m currently learning **React & Modern JavaScript**
 * 💻 I love building **creative UI components**
 * 📫 Reach me at: **[rameez1098raja@gmail.com](mailto:your-email@gmail.com)**
