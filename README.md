@@ -15,14 +15,10 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,node,react,git,github,vscode" />
 
 </p>
-C – Basic programming and problem solving
 
-Core Java – Object Oriented Programming (OOP)
-
-JavaScript (ES6) – Modern JavaScript, DOM Manipulation
 ---
 
 ### 📊 GitHub Stats
