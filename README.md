@@ -60,3 +60,23 @@ JavaScript (ES6) – Modern JavaScript, DOM Manipulation
 ---
 
 ⭐ From [Rameez Raja](https://github.com/Rameez-Raja-1999)
+
+
+
+<h1 align="center">Hi 👋, I'm Rameez Raja</h1>
+
+### 💻 Skills
+
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge\&logo=bootstrap)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge\&logo=node.js)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+![WordPress](https://img.shields.io/badge/WordPress-blue?style=for-the-badge\&logo=wordpress)
+
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Rameez-Raja-1999\&show_icons=true)
+
