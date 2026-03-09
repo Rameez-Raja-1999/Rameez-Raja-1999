@@ -80,6 +80,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=Rameez-Raja-1999\&show_icons=true)
 
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,bash,github,nodejs,react" />
+<img src="https://skillicons.dev/icons?i=c,java,html,css,bootstrap,js,bash,github,nodejs,react" />
+
 
 
