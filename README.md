@@ -38,6 +38,13 @@
 
 ---
 
+# 🏅 Highlights
+
+- 🏆 Best Performer Certificate – Web Development Bootcamp 2025  
+     Recognized for outstanding performance in the Web Development
+     Bootcamp organized by GfG Campus Body, Jamia Hamdard University.  
+
+
 
 
 
