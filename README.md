@@ -17,7 +17,7 @@
 <p><img height="28" src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,vite,react"/></p>
 
 ### **Backend**
-<p><img height="28" src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,flask"/></p>
+<p><img height="28" src="https://skillicons.dev/icons?i=nodejs,express"/></p>
 
 ### 🚀 Languages & Tools
 
