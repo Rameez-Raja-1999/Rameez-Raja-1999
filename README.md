@@ -13,6 +13,11 @@
 * ⚡ Fun fact: I love turning ideas into code
   
 ---
+### **Frontend**
+<p><img height="28" src="https://skillicons.dev/icons?i=html5,css3,javascript,tailwind,react,vite"/></p>
+
+### **Backend**
+<p><img height="28" src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,flask"/></p>
 
 ### 🚀 Languages & Tools
 
