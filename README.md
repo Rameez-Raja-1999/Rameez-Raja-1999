@@ -23,7 +23,7 @@
 <p><img height="28" src="https://skillicons.dev/icons?i=wordpress"/></p>
 
 
-### 🚀 Languages & Tools
+###  Languages & Tools
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,express,react,git,github,vscode,c,java,bash,wordpress" />
