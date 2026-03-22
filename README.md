@@ -22,6 +22,9 @@
 ### **CMS**
 <p><img height="28" src="https://skillicons.dev/icons?i=wordpress"/></p>
 
+### **Databases**
+<p><img height="28" src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite"/></p>
+
 
 ###  Languages & Tools
 
