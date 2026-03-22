@@ -23,7 +23,7 @@
 <p><img height="28" src="https://skillicons.dev/icons?i=wordpress"/></p>
 
 ### **Databases**
-<p><img height="28" src="https://skillicons.dev/icons?i=mongodb,mysql"/></p>
+<p><img height="28" src="https://skillicons.dev/icons?i=mysql"/></p>
 
 
 ###  Languages & Tools
