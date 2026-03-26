@@ -19,11 +19,13 @@
 ### **Backend**
 <p><img height="28" src="https://skillicons.dev/icons?i=nodejs,express"/></p>
 
+### **Databases**
+<p><img height="28" src="https://skillicons.dev/icons?i=mysql"/></p>
+
 ### **CMS**
 <p><img height="28" src="https://skillicons.dev/icons?i=wordpress"/></p>
 
-### **Databases**
-<p><img height="28" src="https://skillicons.dev/icons?i=mysql"/></p>
+
 
 
 ###  Languages & Tools
