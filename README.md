@@ -14,7 +14,7 @@
   
 ---
 ### **Frontend**
-<p><img height="28" src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,vite,react"/></p>
+<p><img height="28" src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,vite"/></p>
 
 ### **Backend**
 <p><img height="28" src="https://skillicons.dev/icons?i=nodejs,express"/></p>
