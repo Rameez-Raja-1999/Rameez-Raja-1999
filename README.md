@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-* 🚀 Aspiring Full-Stack Developer (MERN STACK)
+* 🚀 Aspiring Full-Stack Developer
 * 🌱 I’m currently learning **React & APIs**
 * 💻 I love building **creative UI components**
 * 📫 Reach me at: **[rameez1098raja@gmail.com](mailto:your-email@gmail.com)**
