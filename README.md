@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rameez Raja</h1>
 
-<h3 align="center">FullStack Developer | JavaScript Enthusiast</h3>
+<h3 align="center">Frontend Developer | JavaScript Enthusiast</h3>
 
 ---
 
