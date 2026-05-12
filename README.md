@@ -2,7 +2,7 @@
 
 <h3 align="center">Frontend Developer | JavaScript Enthusiast</h3>
 
---
+---
 
 ### 👨‍💻 About Me
 
