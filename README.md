@@ -9,7 +9,7 @@
 * 🚀 Aspiring Full-Stack Developer
 * 🌱 I’m currently learning **React & APIs**
 * 💻 I love building **creative UI components**
-* 📫 Reach me at: **[rameez1098raja@gmail.com](mailto:your-email@gmail.com)**
+* 📫 Reach me at: **[rraza9911@gmail.com](mailto:your-email@gmail.com)**
 * ⚡ Fun fact: I love turning ideas into code
   
 ---
