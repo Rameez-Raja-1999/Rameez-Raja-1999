@@ -10,7 +10,7 @@
 * 🌱 I’m currently learning **React & APIs**
 * 💻 I love building **creative UI components**
 * 📫 Reach me at: **[rraza9911@gmail.com](mailto:your-email@gmail.com)**
-* ⚡ Fun fact: I love turning ideas into cod
+* ⚡ Fun fact: I love turning ideas into code
   
 ---
 ### **Frontend**
