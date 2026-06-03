@@ -31,7 +31,7 @@
 ###  Languages & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,express,SQL,react,git,github,vscode,c,java,bash,wordpress" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,express,mysql,react,git,github,vscode,c,java,bash,wordpress" />
 <img src="https://img.icons8.com/color/48/microsoft-office-2019.png"/>
 </p>
 
