@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rameez Raja</h1>
 
-
 <h3 align="center">Full-Stack Developer | JavaScript Enthusiast</h3>
 
 --- 
+
 ### 👨‍💻 About Me
 * 🚀 Aspiring Full-Stack Developer
 * 🌱 I’m currently learning **React & APIs**
