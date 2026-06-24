@@ -12,6 +12,7 @@
 * ⚡ Fun fact: I love turning ideas into code
   
 ---
+
 ### **Frontend**
 <p><img height="28" src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,vite"/></p>
 
