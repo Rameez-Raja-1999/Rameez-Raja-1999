@@ -2,7 +2,7 @@
 
 <h3 align="center">Full-Stack Developer | JavaScript Enthusiast</h3>
 
---- 
+---
 
 ### 👨‍💻 About Me
 * 🚀 Aspiring Full-Stack Developer
