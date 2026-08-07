@@ -21,7 +21,7 @@
 <p><img height="28" src="https://skillicons.dev/icons?i=nodejs,express"/></p>
 
 ### **Databases**
-<p><img height="28" src="https://skillicons.dev/icons?i=mysql"/></p>
+<p><img height="28" src="https://skillicons.dev/icons?i=mysql,mongodb"/></p>
 
 ### **CMS**
 <p><img height="28" src="https://skillicons.dev/icons?i=wordpress"/></p>
