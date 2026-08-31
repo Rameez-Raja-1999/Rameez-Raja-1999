@@ -36,8 +36,8 @@
 
 ###  Languages & Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,bash,"/>
-<img src="https://img.icons8.com/color/48/microsoft-office-2019.png"/>
+<img height="28" src="https://skillicons.dev/icons?i=git,github,vscode,bash,"/>
+<img height="28" src="https://img.icons8.com/color/48/microsoft-office-2019.png"/>
 </p>
 
 ---
