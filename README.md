@@ -34,24 +34,13 @@
 <p><img height="28" src="https://skillicons.dev/icons?i=js,c,java,python"/></p>
 
 
----
-
 ###  Languages & Tools
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,"/>
 <img src="https://img.icons8.com/color/48/microsoft-office-2019.png"/>
 </p>
 
-
-
-
-
-###  Languages & Tools
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,nodejs,express,mysql,mongodb,react,git,github,vscode,c,java,bash,wordpress,vite"/>
-<img src="https://img.icons8.com/color/48/microsoft-office-2019.png"/>
-</p>
-
+---
 
 
 
