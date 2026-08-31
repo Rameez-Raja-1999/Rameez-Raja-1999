@@ -19,7 +19,8 @@
 
 
 ### **Backend**
-<p><img height="30" src="https://skillicons.dev/icons?i=nodejs,express"/> &nbsp;<span>REST APIs</span></pre></p>
+<img height="30" src="https://skillicons.dev/icons?i=nodejs,express"/> &nbsp;<img height="30" src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<!-- <p><img height="30" src="https://skillicons.dev/icons?i=nodejs,express"/> &nbsp;<span>REST APIs</span></pre></p> -->
 
 
 ### **Databases**
