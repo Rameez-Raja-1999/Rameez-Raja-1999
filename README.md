@@ -23,7 +23,7 @@
 
 
 ### **Databases**
-<p><img height="29" src="https://skillicons.dev/icons?i=mysql,mongodb"/></p>
+<p><img height="30" src="https://skillicons.dev/icons?i=mysql,mongodb"/></p>
 
 
 ### **CMS**
