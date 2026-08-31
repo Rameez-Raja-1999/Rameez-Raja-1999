@@ -19,19 +19,19 @@
 
 
 ### **Backend**
-<p><img height="28" src="https://skillicons.dev/icons?i=nodejs,express"/</p>
+<p><img height="29" src="https://skillicons.dev/icons?i=nodejs,express"/</p>
 
 
 ### **Databases**
-<p><img height="28" src="https://skillicons.dev/icons?i=mysql,mongodb"/></p>
+<p><img height="29" src="https://skillicons.dev/icons?i=mysql,mongodb"/></p>
 
 
 ### **CMS**
-<p><img height="28" src="https://skillicons.dev/icons?i=wordpress"/></p>
+<p><img height="29" src="https://skillicons.dev/icons?i=wordpress"/></p>
 
 
 ### Programming Languages
-<p><img height="30" src="https://skillicons.dev/icons?i=js,c,java,python"/></p>
+<p><img height="29" src="https://skillicons.dev/icons?i=js,c,java,python"/></p>
 
 
 ###  Languages & Tools
