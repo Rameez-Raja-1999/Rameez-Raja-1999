@@ -15,10 +15,10 @@
 ---
 
 ### **Frontend**
-<p><img height="28" src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,tailwind,react,vite"/><strong> REST APIs</strong></p>
+<p><img height="28" src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,tailwind,react,vite"/></p>
 
 ### **Backend**
-<p><img height="28" src="https://skillicons.dev/icons?i=nodejs,express," /></p>
+<p><img height="28" src="https://skillicons.dev/icons?i=nodejs,express," /><strong> REST APIs</strong></p>
 
 ### **Databases**
 <p><img height="28" src="https://skillicons.dev/icons?i=mysql,mongodb"/></p>
