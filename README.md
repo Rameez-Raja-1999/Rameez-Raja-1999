@@ -17,20 +17,22 @@
 ### **Frontend**
 <p><img height="28" src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,tailwind,react,vite"/></p>
 
+
 ### **Backend**
 <p><img height="28" src="https://skillicons.dev/icons?i=nodejs,express"/</p>
+
 
 ### **Databases**
 <p><img height="28" src="https://skillicons.dev/icons?i=mysql,mongodb"/></p>
 
+
 ### **CMS**
 <p><img height="28" src="https://skillicons.dev/icons?i=wordpress"/></p>
 
-### Programming Languages
 
+### Programming Languages
 <p>
-  <img height="28" src="https://skillicons.dev/icons?i=js"/>
-  &nbsp;&nbsp; Core Java &nbsp;&nbsp; C
+  <img height="28" src="https://skillicons.dev/icons?i=js,c,java"/>c,java
 </p>
 
 
