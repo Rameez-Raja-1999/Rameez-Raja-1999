@@ -19,7 +19,7 @@
 
 
 ### **Backend**
-<p><img height="30" src="https://skillicons.dev/icons?i=nodejs,express"/> &nbsp;<pre>REST APIs</pre></p>
+<p><img height="30" src="https://skillicons.dev/icons?i=nodejs,express"/> &nbsp;<span>REST APIs</span></pre></p>
 
 
 ### **Databases**
