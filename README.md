@@ -32,7 +32,7 @@
 
 ### Programming Languages
 <p>
-  <img height="28" src="https://skillicons.dev/icons?i=js,c,java"/></p>
+  <img height="28" src="https://skillicons.dev/icons?i=js, c, java, python"/></p>
 
 
 ---
