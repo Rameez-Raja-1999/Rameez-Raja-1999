@@ -36,8 +36,8 @@
 
 ###  Tools
 <p align="left">
-<span><img height="28" src="https://skillicons.dev/icons?i=git,github,vscode,bash,postman"/>
-<img height="28" src="https://img.icons8.com/color/48/microsoft-office-2019.png"/></span>
+<span><img height="29" src="https://skillicons.dev/icons?i=git,github,vscode,bash,postman"/>
+<img height="29" src="https://img.icons8.com/color/48/microsoft-office-2019.png"/></span>
 </p>
 
 
