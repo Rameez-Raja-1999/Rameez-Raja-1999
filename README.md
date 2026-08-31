@@ -40,7 +40,7 @@
 <img height="30" src="https://img.icons8.com/color/48/microsoft-office-2019.png"/></span>
 </p>
 
-
+<img height="30" src="https://skillicons.dev/icons?i=nodejs,express"/> &nbsp;<img height="30" src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 ---
 
 ###  GitHub Streak
