@@ -6,8 +6,8 @@
 
 
 ### 👨‍💻 About Me
-* 🚀 Aspiring Full-Stack Developer
-* 🌱 I’m currently learning **React & APIs**
+* 🚀 Aspiring AI Engineer
+* 🌱 I’m currently learning **React.js & Next.js**
 * 💻 I love building **creative UI components**
 * 📫 Reach me at: **[rraza9911@gmail.com](mailto:your-email@gmail.com)**
 * ⚡ Fun fact: I love turning ideas into code
