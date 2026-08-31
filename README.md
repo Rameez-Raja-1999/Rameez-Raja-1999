@@ -26,6 +26,13 @@
 ### **CMS**
 <p><img height="28" src="https://skillicons.dev/icons?i=wordpress"/></p>
 
+### Programming Languages
+
+<p>
+  <img height="28" src="https://skillicons.dev/icons?i=js"/>
+  &nbsp;&nbsp; Core Java &nbsp;&nbsp; C
+</p>
+
 
 ---
 
