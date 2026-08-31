@@ -18,7 +18,10 @@
 <p><img height="28" src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,tailwind,react,vite"/></p>
 
 ### **Backend**
-<p><img height="28" src="https://skillicons.dev/icons?i=nodejs,express,rest-apis"/></p>
+<p><img height="28" src="https://skillicons.dev/icons?i=nodejs,express" <p>
+  <img height="28" src="https://skillicons.dev/icons?i=nodejs,express"/>
+  <strong> REST APIs</strong>
+</p>/></p>
 
 ### **Databases**
 <p><img height="28" src="https://skillicons.dev/icons?i=mysql,mongodb"/></p>
