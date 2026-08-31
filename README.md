@@ -19,7 +19,7 @@
 
 
 ### **Backend**
-<p><img height="30" src="https://skillicons.dev/icons?i=nodejs,express"/</p>
+<p><img height="30" src="https://skillicons.dev/icons?i=nodejs,express"/ &nbsp;&nbsp; REST APIs</p>
 
 
 ### **Databases**
@@ -28,12 +28,6 @@
 
 ### **CMS**
 <p><img height="29" src="https://skillicons.dev/icons?i=wordpress"/></p>
-
-<p>
-  <img height="28" src="https://skillicons.dev/icons?i=nodejs,express"/>
-  &nbsp;&nbsp; REST APIs
-</p>
-
 
 
 ### Programming Languages
