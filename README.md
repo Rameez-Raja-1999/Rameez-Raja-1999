@@ -36,16 +36,12 @@
 
 ###  Languages & Tools
 <p align="left">
-<img height="28" src="https://skillicons.dev/icons?i=git,github,vscode,bash,"/>
-<img height="28" src="https://img.icons8.com/color/48/microsoft-office-2019.png"/>
+<span><img height="28" src="https://skillicons.dev/icons?i=git,github,vscode,bash,"/>
+<img height="28" src="https://img.icons8.com/color/48/microsoft-office-2019.png"/></span>
 </p>
 
+
 ---
-
-
-
-
----   
 
 ###  GitHub Streak
 
