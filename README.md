@@ -6,7 +6,7 @@
 
 
 ### 👨‍💻 About Me
-* 🚀 Future AI Engineer
+* 🚀 Aspiring AI Engineer
 * 🌱 I’m currently learning **React.js & Next.js**
 * 💻 I love building **creative UI components**
 * 📫 Reach me at: **[rraza9911@gmail.com](mailto:your-email@gmail.com)**
