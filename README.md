@@ -2,7 +2,6 @@
 
 <h3 align="center"> Full Stack Developer (MERN) | JavaScript Enthusiast</h3>
 
-
 ----
 
 
