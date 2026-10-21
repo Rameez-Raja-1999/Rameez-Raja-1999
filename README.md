@@ -5,7 +5,7 @@
 ----
 
 
-### 👨‍💻 About Me
+### 👨‍💻 
 * 🚀 Aspiring AI Engineer | Python | Machine Learning
 * 🌱 I’m currently learning **React.js & Next.js**
 * 💻 I love building **creative UI components**
