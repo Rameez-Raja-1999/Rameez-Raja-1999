@@ -5,8 +5,7 @@
 ----
 
 ### 👨‍💻 About Me
-* 🚀 Aspiring AI Engineer | Data Scientist | Machine Learning 
-* 🌱 I’m currently learning **React.js & Next.js**
+* 🚀 Aspiring AI Engineer | Data Scientist | Machine Learning | Python web Developer 
 * 💻 I love building **creative UI components**
 * 📫 Reach me at: **[rraza9911@gmail.com](mailto:your-email@gmail.com)**
 * ⚡ Fun fact: I love turning ideas into code
