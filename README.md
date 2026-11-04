@@ -2,7 +2,7 @@
 
 <h3 align="center"> Full Stack Developer (MERN) | JavaScript Enthusiast</h3>
 
-----
+-----
 
 ### 👨‍💻 About Me
 * 🚀 Aspiring ---> AI Engineer | Data Scientist | Machine Learning | Python web Developer | Platform Engineer | DevOps Engineer
